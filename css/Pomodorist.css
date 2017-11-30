@@ -1,1 +1,15 @@
+body {
+    background: linear-gradient(grey, white);
+}
 
+h1 {
+    color: red;
+    position: fixed;
+    top: 0px;
+    left: 320px;
+}
+
+footer {
+    position: fixed;
+    top: 500px;
+}
