@@ -1,15 +1,41 @@
 body {
-    background: linear-gradient(grey, white);
+    background: linear-gradient( white,black);
 }
 
 h1 {
     color: red;
     position: fixed;
     top: 0px;
-    left: 320px;
+    left: 600px;
 }
 
 footer {
     position: fixed;
-    top: 500px;
+    top: 600px;
+    color:white;
+}
+#slika {
+	position: relative;
+	top:60px;
+	left:540px;
+}
+.btn{
+position:relative;
+top:80px;
+left:630px;
+color:white;
+font-size:200%;
+}
+.brk{
+position:relative;
+top:100px;
+left:600px;
+color:black;
+font-size:200%;
+}
+#timer{
+	color:black;
+	font-size: 200%;
+	position:relative;
+	top:0px;
 }
