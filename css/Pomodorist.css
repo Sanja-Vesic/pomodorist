@@ -118,3 +118,8 @@
      left: 140px;
      top: 350px;
  }
+
+ footer {
+     position: absolute;
+     top: 800px;
+ }
